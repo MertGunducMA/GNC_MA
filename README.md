@@ -13,7 +13,7 @@ Come be a part of the growing community of drone application developers! Join th
 ## Guidance Navigation and Control Functions
 
 ### gnc_function.hpp / py_gnc_functions.py
-
+This page is forked by intellegent quads and updated
 The intelligent quads gnc_functions are collection of high level functions to help make controlling your drone simple. You can find functions for interpreting state estimation, commanding waypoints, changing modes and more. The documentation for using these functions is shown below. 
 
 [gnc_functions.hpp documentation](https://github.com/Intelligent-Quads/iq_tutorials/blob/master/docs/GNC_functions_documentation.md)
