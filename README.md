@@ -2,7 +2,7 @@
 
 ![iq](docs/imgs/MA.jpeg)
 
-This package is forked from Intellegent Quads github page. It contains a collection of software designed to develop GNC features for drones produced by MAlloy Aeronautics.
+This package is forked from Intellegent Quads github page. It contains a collection of software designed to develop GNC features for drones produced by Malloy Aeronautics.
 
 ---
 
@@ -15,8 +15,6 @@ The intelligent quads gnc_functions are collection of high level functions to he
 [gnc_functions.hpp documentation](https://github.com/Intelligent-Quads/iq_tutorials/blob/master/docs/GNC_functions_documentation.md)
 
 [py_gnc_functions.py documentation](docs/py_gnc_functions.md)
-
-special thanks to [Sahas-Ananth](https://github.com/Sahas-Ananth) for translating the gnc_functions to python! 
 
 ---
 
