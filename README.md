@@ -1,4 +1,4 @@
-# iq_gnc
+# Malloy Aeronautics GNC Applications
 
 ![iq](docs/imgs/iq.JPG)
 
