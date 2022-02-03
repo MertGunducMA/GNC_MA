@@ -2,11 +2,7 @@
 
 ![iq](docs/imgs/MA.jpeg)
 
-This package hosts a collection of software designed to help drone developers make their application come to life. The code in this repo is complimented by the [iq_tutorials](https://github.com/Intelligent-Quads/iq_tutorials) repo, which explains how to set up your dev enviorment as well as teaches basic drone programming fundamentals. 
-
-## Community Discord Server
-
-Come be a part of the growing community of drone application developers! Join the the conversation in our [discord](https://discord.gg/xZjXaAf).
+This package is forked by Intellegent Quads github page. It contains a collection of software designed to develop GNC features for drones produced by MAlloy Aeronautics.
 
 ---
 
