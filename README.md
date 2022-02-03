@@ -1,6 +1,6 @@
 # Malloy Aeronautics GNC Applications
 
-          [iq](docs/imgs/MA.jpeg)
+[iq](docs/imgs/MA.jpeg)
 
 This package is forked from Intellegent Quads github page. It contains a collection of software designed to develop GNC features for drones produced by Malloy Aeronautics.
 
